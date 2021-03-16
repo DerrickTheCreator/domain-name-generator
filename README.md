@@ -54,3 +54,4 @@ were able to buy a .com domain relatively easy.
 In fact, this project was originally built in 2002 by one of 4Geeks teachers 
 while he was trying to find domain names to buy for several projects.
 
+# domain-name-generator
